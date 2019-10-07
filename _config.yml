@@ -1,8 +1,7 @@
 title: Welcome
 author: John Lopez
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  New page
+description: > New page
 
 # social links
 twitter_username: your-twitter-handle
